@@ -11,8 +11,11 @@ inputFile:edgelist
 1 2
 
 2 3
+
 3 4
+
 23 45
+
 ...
 
 ### note
