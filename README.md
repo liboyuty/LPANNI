@@ -7,6 +7,7 @@ implement for LPANNI: Overlapping Community Detection Using Label Propagation in
 
 inputFile:edgelist
 >for example
+
 1 2
 2 3
 3 4
