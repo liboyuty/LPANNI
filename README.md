@@ -9,6 +9,7 @@ inputFile:edgelist
 >for example
 
 1 2
+
 2 3
 3 4
 23 45
